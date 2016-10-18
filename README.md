@@ -1,5 +1,9 @@
 # Bloomberg
-Bloomberg is a Ruby script I wrote in about an hour to fetch a company list from Bloomberg LP, using OAuth. Just download the file, chmod it, do the following
+Bloomberg is a Ruby script I wrote in about an hour to fetch a company list from Bloomberg LP, using OAuth. 
+
+![howitworks](https://github.com/Montana/flowcharts/blob/master/download.png?raw=true)
+
+Just download the file and give it proper permissions.
 
 <pre>cd bloomberg
 chmod 777 bloomberg.rb</pre> 

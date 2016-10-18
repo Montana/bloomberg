@@ -8,7 +8,7 @@ Just download the file and give it proper permissions.
 <pre>cd bloomberg
 chmod 777 bloomberg.rb</pre> 
 
-Or require the gem, as specified in the gemspec I've attached with this file if you're trying to implemenet this in your program/app or whatever you're making.
+Or require the gem, as specified in the gemspec I've attached with this file if you're trying to implemenet this in your program/app or whatever it is you're building.
 
 This can be a nice backend for somebody looking for a quick CSV that is seeking companies that Bloomberg LP has listed. I used OAuth. 
 

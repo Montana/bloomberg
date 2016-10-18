@@ -1,7 +1,7 @@
 # Bloomberg
 Bloomberg is a Ruby script I wrote in about an hour to fetch a company list from Bloomberg LP, using OAuth. 
 
-<div style="text-align:center"><img src ="https://github.com/Montana/flowcharts/blob/master/download.png"/></div>
+![Bloomberg](https://github.com/Montana/flowcharts/blob/master/download.png)
 
 Just download the file and give it proper permissions.
 

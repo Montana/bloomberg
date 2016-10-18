@@ -8,7 +8,7 @@ Or require the gem, as specified in the gemspec I've attached with this file if 
 
 This can be a nice backend for somebody looking for a quick CSV that is seeking companies that Bloomberg LP has listed. I used OAuth. 
 
-*http://www.bloomberg.com
-*http://www.bloomberg.com/Research/common/symbollookup/symbollookup.asp?lookuptype=private&region=all
+* http://www.bloomberg.com
+* http://www.bloomberg.com/Research/common/symbollookup/symbollookup.asp?lookuptype=private&region=all
 
 Written by <a href="http://www.montanamendy.com">Montana Mendy</a>.

@@ -3,6 +3,7 @@ Bloomberg is a Ruby script I wrote in about an hour to fetch a company list from
 
 <div style="text-align:center"><img src ="https://github.com/Montana/flowcharts/blob/master/download.png" /></div>
 
+
 Just download the file and give it proper permissions.
 
 <pre>cd bloomberg
